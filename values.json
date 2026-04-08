@@ -7,7 +7,7 @@
   "Crowbar": { "buy": 1, "sell": 150 },
   "Golden Snowball Launcher": { "buy": 400, "sell": 1210 },
   "Snowball Launcher": { "buy": 400, "sell": 600 },
-  "Chain Mace": { "buy": 300, "sell": 550 },
+  "Chain Mace": { "buy": 1, "sell": 300 },
   "Rusty Bow": { "buy": 50, "sell": 200 },
   "Roller Skates": { "buy": 400, "sell": 800 },
   "Slasher Claws": { "buy": 1400, "sell": 2000 },
