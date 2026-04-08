@@ -4,7 +4,7 @@
   "Loveboard": { "buy": 6500, "sell": 8400 },
   "Kitty Purse": { "buy": 2000, "sell": 2900 },
   "Axe": { "buy": 300, "sell": 700 },
-  "Crowbar": { "buy": 100, "sell": 150 },
+  "Crowbar": { "buy": 1, "sell": 150 },
   "Golden Snowball Launcher": { "buy": 400, "sell": 1210 },
   "Snowball Launcher": { "buy": 400, "sell": 600 },
   "Chain Mace": { "buy": 300, "sell": 550 },
