@@ -1,9 +1,9 @@
 {
-  "SpikedPurse": { "buy": 400, "sell": 900 },
+  "SpikedPurse": { "buy": 400, "sell": 850 },
   "Brass Knuckles": { "buy": 3000, "sell": 4500 },
   "Loveboard": { "buy": 6500, "sell": 8400 },
   "Kitty Purse": { "buy": 2000, "sell": 3100 },
-  "Axe": { "buy": 300, "sell": 800 },
+  "Axe": { "buy": 300, "sell": 700 },
   "Crowbar": { "buy": 100, "sell": 150 },
   "Golden Snowball Launcher": { "buy": 400, "sell": 1210 },
   "Snowball Launcher": { "buy": 400, "sell": 600 },
