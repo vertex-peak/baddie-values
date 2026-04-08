@@ -1,3 +1,24 @@
-{item name, value]
-{item name, value]
-{item name, value]
+{
+  "SpikedPurse": { "buy": 400, "sell": 830 },
+  "Brass Knuckles": { "buy": 3000, "sell": 4100 },
+  "Loveboard": { "buy": 6500, "sell": 8200 },
+  "Kitty Purse": { "buy": 2000, "sell": 3100 },
+  "Axe": { "buy": 300, "sell": 700 },
+  "Crowbar": { "buy": 100, "sell": 150 },
+  "Golden Snowball Launcher": { "buy": 300, "sell": 1110 },
+  "Snowball Launcher": { "buy": 300, "sell": 500 },
+  "Chain Mace": { "buy": 200, "sell": 400 },
+  "Rusty Bow": { "buy": 50, "sell": 150 },
+  "Roller Skates": { "buy": 300, "sell": 700 },
+  "Slasher Claws": { "buy": 1400, "sell": 2500 },
+  "Blast Bow": { "buy": 5000, "sell": 5400 },
+  "Cannon": { "buy": 2999, "sell": 4000 },
+  "Dance Bomb": { "buy": 2999, "sell": 4000 },
+  "Freeze Gun": { "buy": 2999, "sell": 4000 },
+  "Glitter Blue Spray": { "buy": 22500, "sell": 35000 },
+  "Grapple Hook": { "buy": 2000, "sell": 3000 },
+  "Grim Reaper Cloak": { "buy": 9900, "sell": 15000 },
+  "Ice Katana": { "buy": 26000, "sell": 40000 },
+  "Love Me Hate Me Taser": { "buy": 22500, "sell": 35000 },
+  "Medic Spray": { "buy": 6500, "sell": 10000 }
+}
