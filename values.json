@@ -21,5 +21,6 @@
   "Ice Katana": { "buy": 26000, "sell": 50000 },
   "Love Me Hate Me Taser": { "buy": 40000, "sell": 70000 },
   "Gravity Gun": { "buy": 7000, "sell": 12000 },
+  "Santa's Naughty or Nice Launcher": { "buy": 20000, "sell": 999999 },
   "Medic Spray": { "buy": 6000, "sell": 12000 }
 }
