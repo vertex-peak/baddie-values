@@ -18,7 +18,7 @@
   "Glitter Blue Spray": { "buy": 22500, "sell": 35000 },
   "Grapple Hook": { "buy": 2000, "sell": 3000 },
   "Grim Reaper Cloak": { "buy": 10000, "sell": 15000 },
-  "Ice Katana": { "buy": 26000, "sell": 50000 },
+  "Ice Katana": { "buy": 26000, "sell": 999999 },
   "Love Me Hate Me Taser": { "buy": 40000, "sell": 70000 },
   "Gravity Gun": { "buy": 7000, "sell": 12000 },
   "Santa's Naughty or Nice Launcher": { "buy": 20000, "sell": 999999 },
